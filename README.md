@@ -10,7 +10,7 @@ A GUI based program for a pharmacy, to store and manipulate medicine data.
   - [Display of entire Medicine stock](#display-of-entire-medicine-stock)
   - [Update Page](#update-page)
 - [Features](#features)
-- [Frameworks and Libraries](#frameworks-and-libraries)
+- [Dependencies](#dependencies)
 - [Setup](#setup)
 
 ## Overview
@@ -47,7 +47,7 @@ To update details of an existing medicine, like quantitiy in stock. If no such m
 - Displays list of expired medicines.
 - Fast operations (addition, deletion, accessing) because of usage of efficient dataset.
 
-## Frameworks and libraries
+## Dependencies
 
 - `python == 3.8.2`
 - `tkinter`
