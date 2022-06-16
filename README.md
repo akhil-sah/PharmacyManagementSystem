@@ -1,6 +1,5 @@
-# PharmacyManagementSystem
+# Pharmacy Management System
 A GUI based program for a pharmacy, to store and manipulate medicine data.
-The program uses ternary search tree for storing medicine details during runtime. A CSV file is used for permanent storage of medicine details. 
 
 ## Contents
 
@@ -28,17 +27,17 @@ Screen captures of the application showing some of its functionalities:
 
 ### Search Page
 
-User can search on this page for a medicine in the database. Its details are shown if it is present otherwise a message saying no such medicine exists is displayed. 
+User can search on this page for a medicine in the database. Its details are shown if it is present otherwise a message saying no such medicine exists is displayed. <br>
 ![Search Page](./images/search.PNG)
 
 ### Display of entire Medicine stock
 
-T details of entire medicine stock in the database is displayed in this window
+The details of entire medicine stock in the database is displayed in this window
 ![Display of entire record](./images/display.PNG)
 
 ### Update Page
 
-To update details of an existing medicine, like quantitiy in stock. If no such medicine present in the database, a message saying the same is displayed. 
+To update details of an existing medicine, like quantitiy in stock. If no such medicine present in the database, a message saying the same is displayed. <br>
 ![Update Page](./images/update.PNG)
 
 ## Features
